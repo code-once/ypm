@@ -1,0 +1,3 @@
+planned testcases:
+==================
+* Emacs
